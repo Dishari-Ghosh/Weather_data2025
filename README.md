@@ -7,3 +7,6 @@ My first Python project involved analyzing Kolkata's weather data from 1985 to 2
 ✅Time-series analysis and trend identification.
 ✅Effective data visualization using Matplotlib. 
 I'm excited to use these skills to explore more climate-related data and contribute to a better understanding of environmental changes.
+
+<h4 align="center" style="color:gold;">✨ Thank You ✨</h4> 
+<h3 align="center" style="color:#e74c3c;">Created By: Dishari Ghosh</h3>
